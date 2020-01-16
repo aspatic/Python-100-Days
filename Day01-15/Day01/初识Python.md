@@ -1,6 +1,6 @@
 ## Day01 - 初识Python
 
-### Python简介
+### [x]Python简介
 
 #### Python的历史
 
